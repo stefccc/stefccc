@@ -25,7 +25,8 @@ Here are some of the languages and tools I’ve worked with:
 
 > Here are a few things I’ve worked on — some are complete, some works-in-progress, and some may stay unfinished, but they all show where I’ve been and what I’ve learned.
 
-- **[Super Melon Boy](#)** – A fun 2D mobile game with unlockable skins and simple mechanics.
+- **[Super Melon Boy](https://play.google.com/store/apps/details?id=com.stefcstudio.supermelonboy&pcampaignid=web_share)** – A fun 2D mobile game with unlockable skins and simple mechanics.
+- **[Arctic Glimpse](http://stefanrais.cz/projects/arctic/)** – A portfolio website made for a fictional group of photographers.
 
 > I’m gradually organizing and uploading older or unfinished projects here too.
 
